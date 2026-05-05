@@ -30,3 +30,17 @@ Cada pasta representa um projeto diferente, abordando conceitos importantes do d
  ┣ 📂 
  ┣ 📂 
  ┗ 📄 README.md
+ ```
+
+ 
+ 
+
+# Rodar Projetos 🚀
+
+## 📂 luz-e-cena
+```
+cd luz-e-cena
+npm run server
+npm run dev
+
+```
